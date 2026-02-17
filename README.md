@@ -3,7 +3,6 @@
 Este repositório contém **quatro atividades práticas em SQL**, desenvolvidas como parte do aprendizado em **Banco de Dados** no curso de Ciência da Computação.  
 As atividades abordam criação de tabelas, relacionamentos, consultas, atualizações e exclusões, utilizando **MySQL** como SGBD.
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -11,11 +10,10 @@ As atividades abordam criação de tabelas, relacionamentos, consultas, atualiza
 * ![SQL](https://img.shields.io/badge/SQL-FFCA28?style=for-the-badge&logo=sqlite&logoColor=black)
 * ![Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 ## 📂 Atividades Incluídas
 
----
+
 
 ### 1️⃣ Atividade 1 - Cadastro de Pessoas
 
@@ -33,7 +31,6 @@ Criação da tabela `pessoa` com dados de identificação e endereço.
 
 📄 Arquivo: `atividade1_pessoa.sql`
 
----
 
 ### 2️⃣ Atividade 2 - Cadastro de Animais
 
@@ -52,7 +49,6 @@ Criação de uma tabela `animal` com dados como espécie, raça e data de nascim
 
 📄 Arquivo: `atividade2_animal.sql`
 
----
 
 ### 3️⃣ Atividade 3 - Relacionamento Adulto ↔ Bebê
 
@@ -71,7 +67,6 @@ Criação de duas tabelas (`adulto`, `bebe`) com chave estrangeira representando
 
 📄 Arquivo: `atividade3_adulto_bebe.sql`
 
----
 
 ### 4️⃣ Atividade 4 - Sistema de Agendamento Veterinário
 
@@ -89,7 +84,6 @@ Simula um sistema com três tabelas: `responsavel`, `cachorro` e `agenda`, com r
 
 📄 Arquivo: `atividade4_veterinaria.sql`
 
----
 
 ## 🚀 Como Executar
 
@@ -98,8 +92,6 @@ Simula um sistema com três tabelas: `responsavel`, `cachorro` e `agenda`, com r
 3. Execute os scripts em sua instância local do MySQL
 4. Verifique as tabelas, registros e resultados das consultas
 
----
-
 ## 🎯 Objetivo do Projeto
 
 🔸 Praticar os fundamentos de banco de dados relacionais com SQL  
@@ -107,7 +99,6 @@ Simula um sistema com três tabelas: `responsavel`, `cachorro` e `agenda`, com r
 🔸 Explorar relacionamentos entre tabelas usando `JOIN`  
 🔸 Usar comandos de agrupamento, ordenação e filtros complexos
 
----
 
 ## 👨‍🎓 Autor
 
@@ -117,11 +108,10 @@ Simula um sistema com três tabelas: `responsavel`, `cachorro` e `agenda`, com r
 📍 Brasil  
 🔗 GitHub: [@RaphaelPCarmo](https://github.com/RaphaelPCarmo)
 
----
+
 
 ## 📄 Licença
 
 Este projeto foi criado com fins educacionais e está disponível para estudo e modificação.  
 Sinta-se à vontade para usar como base em seus próprios projetos e portfólio!
 
----
